@@ -4,4 +4,9 @@ online update
 lokale aenderung
 lokale aenderung2
 
+<<<<<<< HEAD
 lokale aenderung3 fuern konflikt
+=======
+
+lokale aenderung3 fuern online konflikt
+>>>>>>> dev
